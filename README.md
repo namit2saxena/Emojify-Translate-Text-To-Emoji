@@ -1,4 +1,4 @@
-**Emojify** is a web-app based on a micro web framework called Flask that allows you to translate your text to an emoji. It is based on the LSTM neural network which implements multiclass sentimental analysis.
+**Emojify** 😁 is a web-app based on a micro web framework called Flask that allows you to translate your text to an emoji. It is based on the LSTM neural network which implements multiclass sentimental analysis.
 
 **To start the application:**
 1. Clone the repository to your desktop.
